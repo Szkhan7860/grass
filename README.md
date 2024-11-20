@@ -1,5 +1,5 @@
 # BOT GRASS AUTO FARMING
-- https://t.me/AirdropFamilyIDN
+- https://telegram.me/Techy_Sz
 # Update Grass Python
 # Register
 - https://app.getgrass.io/register/?referralCode=AYtNN0N1D0pzSCc
